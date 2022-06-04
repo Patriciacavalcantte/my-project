@@ -11,7 +11,7 @@ export const Hero = () => {
     <div className='w-full h-screen bg-zinc-200 flex flex-col justify-between'>
       <div className="grid md:grid-cols-2 mx-w-[1240px] m-auto">
           <div className='flex flex-col justify-center md:items-start w-full px-2 py-8'>
-            <p className='text-2xl'>Linguagem acessível e didática transparente</p>
+            <p className='text-2xl m-8 py-4'>Linguagem acessível e didática transparente</p>
             <h1 className='py-3 text-5xl md:text-7xl font-bold'>Aprenda a programar</h1>
             <p className='text-2xl'>Essa é a tecnologia da nossa marca.</p>
             <button className='py-3 px-6 sm:w-[60%] my-4'>Estude aqui</button>
